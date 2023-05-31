@@ -1,2 +1,2 @@
-# movie-rating-project
-Spring Boot microservice for a movie rating website
+# Practice Project: Tour Rating System backend
+Spring boot backend for a tour rating system
